@@ -1,0 +1,31 @@
+<style>
+      .cls-1 {
+        font-family: AdobeArabic-Regular, 'Adobe Arabic';
+        font-size: 36px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #d1b982;
+      }
+
+      .cls-4, .cls-6 {
+        fill: #2f8086;
+      }
+
+      .cls-5 {
+        fill: #c2a258;
+      }
+
+      .cls-6 {
+        stroke-width: 0px;
+      }
+    </style>
